@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Yeshan-Taoist`s Blog",
   description: "一个菜鸟前端工程师的自我进阶之路",
   appearance: true,
-  base: "/",
+  base: "/Yeshan-Taoist-Blog/",
   // head: [],
   // ignoreDeadLinks: true,
   lastUpdated: true,
