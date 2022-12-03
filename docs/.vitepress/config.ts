@@ -17,7 +17,7 @@ export default defineConfig({
   srcDir: "./src",
   // 主题配置
   themeConfig: {
-    logo: "/logo.png",
+    logo: "./logo.png",
     nav: [
       { text: "首页 HOME", link: "" },
       { text: "日常 DAILY", link: "" },
